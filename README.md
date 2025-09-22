@@ -1,2 +1,2 @@
-# porfoliom
+# porfolio
 maths, computer science and english progress
